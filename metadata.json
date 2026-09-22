@@ -1,0 +1,6 @@
+{
+  "name": "ShieldDNS",
+  "description": "Architecture technique et moteur de filtrage DNS / VPN local on-device",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
